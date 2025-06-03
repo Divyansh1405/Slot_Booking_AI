@@ -1,0 +1,11 @@
+day,time_slot,bookings
+Monday,09:00-10:00,12
+Monday,10:00-11:00,30
+Tuesday,09:00-10:00,5
+Tuesday,10:00-11:00,18
+Wednesday,09:00-10:00,10
+Wednesday,10:00-11:00,22
+Thursday,09:00-10:00,7
+Thursday,10:00-11:00,14
+Friday,09:00-10:00,11
+Friday,10:00-11:00,19
